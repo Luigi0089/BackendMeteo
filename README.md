@@ -30,7 +30,7 @@ Il backend espone API REST che consentono la gestione degli utenti, delle locali
 
 **Clona il repository**
    ```bash
-   git clone https://github.com/Luigi0089/Beckend.git
+   git clone https://github.com/Luigi0089/BackendMeteo.git
    cd backend
 ```
   
